@@ -1,23 +1,23 @@
 ➡️ Commend ⬇️
 
-➡️apt update && apt upgrade -y
+apt update && apt upgrade -y
 
-➡️pkg install git -y
+pkg install git -y
 
-➡️pkg install python -y
+pkg install python -y
 
-➡️pkg install python2 -y
+pkg install python2 -y
 
-➡️pip2 install mechanize
+pip2 install mechanize
 
-➡️pip2 install requests
+pip2 install requests
 
-➡️git clone https://github.com/IlayTamvan/Report
+git clone https://github.com/IlayTamvan/Report
 
-➡️cd Report
+cd Report
 
-➡️chmod +x*
+chmod +x*
 
-➡️unzip Report.zip
+unzip Report.zip
 
-➡️python2 Report.py
+python2 Report.py
